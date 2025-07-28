@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "central-mission-467310-d9",
+  "private_key_id": "0d127e0666ee19e6dfac7d9b3c0f49bf1e3a6852",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCqiK1LJq/ToXQ1\nourCld4t2o7NMXokLe0OaF698b9fbUb+al3M7ia08ckSn+hT0oBo2tNPhGeAHdOn\niH54UF2CKgynHTlD7dWx9grHAy+oMZWxa8LML0H5smKTl8oZ6u7I1ZlMo3QwjdzC\n5VTKGAxY9Qoa1iU+BKcmEJonrQ2mRHfexMfwbCA7+tO17Y6TA+g8JkZPnHfTM+Bd\nj29d7OKzX9NWxcXbdQbxeY2s9888EWeSg4DrITwI/c14jrHGVpU/icW+7VpBt4ae\n530U17Y1SPwPWC2DE/BPCOD2fWKelMBS8Yv2Ac4GZS6Xci7dvHSSRFYUIO7Rqb7S\nZPmNwUJ5AgMBAAECggEAP6a7M/ExMIczVm/EOzPwFWJd6bXddpKTyExpjHEmsooZ\ntQ1jjIGZffE/UU3RTDQmTLzcoXH0pcu8O+yE9AhfFp32Ugvk23dyyzVgSW7lg1xa\nmLn1n/vFntsX0yoVO75GOT0Mtp/N1u+kZjRuBO6b8Too9uJWTUM0Vk9dEpETpqqM\ndW1jRInl2IpoOxitC8YL0aNe7NILlgm4HoOlapnmLKJOupAQVThB/tQHARITXNJi\neVr47XKadIGkGDnbQdnZbJuYdIIt4tc2an/JMt1iOrx8ccVp0Rb9906GWmMrs9Tq\n3yPyQ8UQpd93WidlJ2pKrfSA07eBx5KohwFMW4qqnwKBgQDcg5AO5ldjkPDEX/Y0\nBxukAVWP7QC+SR14V6FDv0HuT2PdXuDae5d+jUgtjpC12/z3LSL9j10YQ795YqJ2\nqZFU9eFAQb2XPpZ7IQQRPgrjFfmFLI9iLO3hQWmKPJV+Yh3BZTdabFhD8Z1ms8Iz\nusqHM4Qnr+roCBOrWMMqjyGcNwKBgQDF+hqmwc4XYhEEPg8WeYTBS31tjI8sJpA4\n5Rj4L1P77OH0pqtC4iYDmZT+C9YTP7aCPgW3pQIUktNFdisnijTTS8b/AIFcnkiA\niOwK7XpRzL8U3S/UqUMIIJCfaitkgXJIxE6cJDuvRqRHnQm5WlLJ+owuSNR6c1Nb\noez/tSaezwKBgDPvPF91+oD1ou7tFuQ8BFOFCOzDydgHCkzMfquhANsqkX+Sl+x9\nDTn99lDccdKTBCoG1GXZfPh5BECHbXH7D8JtwmZK1Wcok3JeXUHeVdwT0dd+nipm\nIIRbzoqDKEZCv3VL7FR8jfE6l3KXxZY/WPGsvWRHd1C8jj1dw2FjomvTAoGAK2gP\nqdo6NnRA6N42bqYMDllf0cIMrhBydJb+Z4Pw9P5V+E8Go65zyTxGJ4Eu2Z+Rg3LX\nzBD4qMwcWFF1WsD5ng4yPjy9IDJwEQZ0Ql0ZAZBToN5yGz1VPhXtv5YGl42uIfgw\niBmFoINrh2wN8r60AibVz1wWghaBA0k4bkQoiI8CgYEA26W4pD1FpyVL4o+GeL6Y\nWlF6DRRk/I5duxVN+gQ6VP0pBlAtZ0wfD3jg71NhRylmPnvPpxZPoAu1JlzbVr73\nzvdytsRvWHFCgk8zaWdqmaaCVovOA1TI85Om0WGW/y/npjZUMeYE4cDSshIp/buQ\nj8v2qfDoUucvwBNkBARznLY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "spreadsheet-access@central-mission-467310-d9.iam.gserviceaccount.com",
+  "client_id": "114222017861803067117",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/spreadsheet-access%40central-mission-467310-d9.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
